@@ -258,7 +258,7 @@
 <b>Shape_Leng:</b> 602.472171<br>
 <b>COUNTRY_COLOR:</b> #9fc36e
 </div>]]></description>
-			<styleUrl>#Style2-multi_geometry-2-map</styleUrl>
+			<styleUrl>#Style2-polygon-1</styleUrl>
 			<ExtendedData>
 				<Data name='geometry_vertex_count'>
 					<value>1308</value>
