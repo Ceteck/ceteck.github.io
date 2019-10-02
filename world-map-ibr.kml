@@ -11,7 +11,7 @@
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7f0066d8</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
@@ -23,7 +23,7 @@
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7f0066d8</color>
+				<color>7f0000ff</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
@@ -296,7 +296,7 @@
 <b>Shape_Leng:</b> 98.142512<br>
 <b>COUNTRY_COLOR:</b> rgba(8, 96, 179, 1.0)
 </div>]]></description>
-			<styleUrl>#Style2-multi_geometry-2-map</styleUrl>
+			<styleUrl>#Style2-polygon-1-map</styleUrl>
 			<ExtendedData>
 				<Data name='geometry_vertex_count'>
 					<value>257</value>
